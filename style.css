@@ -1,0 +1,51 @@
+body {
+	background-color: #660000;
+}
+img {
+	height: 270px
+}
+.circle {
+	border-radius: 50%;
+}
+.icon {
+	height: 25px;
+}
+a:hover {
+	color: pink;
+
+}
+body {
+	font-family: 'Farsan' ;
+	font-size: 25px;
+}
+header {
+	text-align: center;
+	background-color: #b3b3ff;
+	width: 1000px;
+	margin: 0 auto;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+	padding: 30px;
+	border-radius: 5px;
+}
+div{
+	text-align: center;
+	background-color: #b3b3ff;
+	width: 1000px;
+	margin: 0 auto;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+	padding: 30px;
+	border-radius: 5px;
+}
+footer {
+	text-align: center;
+	background-color: #b3b3ff;
+	width: 1000px;
+	margin: 0 auto;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+	padding: 30px;
+	border-radius: 5px;
+
+}
+ul {
+	list-style-type: none;
+}
