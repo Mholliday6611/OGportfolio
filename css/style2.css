@@ -1,0 +1,37 @@
+
+img {
+	height: 270px
+}
+.circle {
+	border-radius: 50%;
+}
+.icon {
+	height: 25px;
+}
+a:hover {
+	color: pink;
+
+}
+body {
+	font-family: 'Farsan' ;
+	font-size: 25px;
+}
+.color{
+	background-color: red;
+}
+body {
+	font-family: 'Farsan' ;
+	font-size: 25px;
+}
+nav {
+	font-family: 'Oswald', sans-serif;
+}
+h1, h2, h3 {
+	font-family: 'Playfair Display', serif;
+}
+body {
+	background-color: #222;
+}
+p {
+	color: black
+}
