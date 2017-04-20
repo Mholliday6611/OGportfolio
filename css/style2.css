@@ -30,8 +30,21 @@ h1, h2, h3 {
 	font-family: 'Playfair Display', serif;
 }
 body {
-	background-color: #222;
+	background-color: #B82601;
 }
 p {
 	color: black
 }
+button {
+	color: pink;
+	background-color: black;
+	font-family: 'Playfair Display', serif;
+	border-color: #EAC67A;
+	padding-left:20px;
+	padding-right:20px;
+}
+.navbar-inverse {
+	background-color: #B82601;
+}
+.jumbotron {
+	background-color: #EAC67A;
