@@ -29,9 +29,9 @@ nav {
 h1, h2, h3 {
 	font-family: 'Playfair Display', serif;
 }
-body {
+/*body {
 	background-color: #B82601;
-}
+}*/
 p {
 	color: black
 }
@@ -43,8 +43,8 @@ button {
 	padding-left:20px;
 	padding-right:20px;
 }
-.navbar-inverse {
+/*.navbar-inverse {
 	background-color: #B82601;
 }
 .jumbotron {
-	background-color: #EAC67A;
+	background-color: #EAC67A;*/
